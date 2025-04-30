@@ -1,7 +1,7 @@
 # Artifacts
 node_modules/
 lib/
-dist/
+#dist/
 ?sprite*.*css
 sprite*.png
 
